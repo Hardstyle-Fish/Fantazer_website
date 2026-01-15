@@ -208,8 +208,8 @@
         }
 
         .welcome-circle {
-            width: 340px;
-            height: 340px;
+            width: 640px;
+            height: 640px;
             background: white;
             border-radius: 50%;
             display: flex;
@@ -237,7 +237,7 @@
         }
 
         .welcome-title {
-            font-size: 35px;
+            font-size: 70px;
             font-weight: 600;
             margin-top: 20px;
             margin-bottom: 10px;
@@ -253,7 +253,7 @@
         }
 
         .welcome-subtitle {
-            font-size: 22px;
+            font-size: 44px;
             margin-top: 2px;
             margin-bottom: 10px;
             line-height: 1.2;
@@ -559,4 +559,5 @@
                 height: 80px;
                 font-size: 30px;
             }
+
         }
