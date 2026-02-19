@@ -309,7 +309,12 @@
             color: #b48cf2;
             z-index: 10;
         }
-
+        a {
+            color: #64b4c4;
+        }
+        a:visited {
+            color: #64b4c4;
+        }
         .section-divider {
             width: 100px;
             height: 4px;
@@ -561,3 +566,4 @@
             }
 
         }
+
